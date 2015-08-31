@@ -31,6 +31,7 @@ namespace Lab202
             maxStudents = 30;
             numStudents = 0;
         }
+
         public Course(string name, string courseID, string lecturer)
         {
             this.name = name;
