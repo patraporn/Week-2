@@ -59,6 +59,7 @@ namespace Lab202
                 name = value;
             }
         }
+
         public string CourseID
         {
             get
@@ -100,6 +101,7 @@ namespace Lab202
                 }
             }
         }
+
         public string Lecturer
         {
             get
